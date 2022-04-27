@@ -2,7 +2,8 @@
 
 ## Jogos desenvolvidos durante aprendizado em cursos realizados na ALURA
 
-Cada jogo tem sua documentação em próprio código informando cada passo realizado.
+Cada jogo, tem sua documentação em próprio código, informando cada passo realizado.
+
 No curso de Python vimos como:
 
 - funciona a linguagem
